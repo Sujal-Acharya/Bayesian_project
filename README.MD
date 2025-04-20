@@ -1,4 +1,4 @@
-readme_content = """\
+
 # 💰 Bayesian Bandit for Dynamic Pricing in Investment Banking
 
 This project demonstrates a **Bayesian Multi-Armed Bandit (Thompson Sampling)** implementation tailored for **dynamic pricing of investment banking services** such as M&A advisory, equity offerings, debt issuance, and restructuring.
