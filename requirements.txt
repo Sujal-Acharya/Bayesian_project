@@ -1,4 +1,0 @@
-gradio
-datasets
-pandas
-numpy
